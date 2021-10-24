@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">WeightSync</string>
+
+    <string id="menu_label_1">Manual Entry</string>
+    <string id="menu_label_2">Sync from Scale</string>
+</strings>
