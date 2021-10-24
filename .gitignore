@@ -1,1 +1,5 @@
-bin\
+bin
+developer_key.der
+sdk
+build
+release
