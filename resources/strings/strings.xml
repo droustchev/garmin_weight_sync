@@ -3,4 +3,8 @@
 
     <string id="menu_label_1">Manual Entry</string>
     <string id="menu_label_2">Sync from Scale</string>
+
+    <string id="weight_graph_label">Weight</string>
+    <string id="weight_label">Weight</string>
+    <string id="weight_units">kg</string>
 </strings>

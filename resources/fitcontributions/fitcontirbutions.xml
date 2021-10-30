@@ -1,0 +1,8 @@
+<fitContributions>
+    <fitField id="1" displayInChart="true" sortOrder = "0" precision="2"
+    chartTitle="@Strings.weight_graph_label" 
+    dataLabel="@Strings.weight_label"
+    unitLabel="@Strings.weight_units" 
+    fillColor="#FF0000" 
+    />
+</fitContributions>

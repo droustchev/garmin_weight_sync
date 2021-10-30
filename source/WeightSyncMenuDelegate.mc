@@ -12,6 +12,8 @@ class WeightSyncMenuDelegate extends WatchUi.Menu2InputDelegate {
         var id = item.getId() as String;
         if (id.equals("manual")) {
             System.println("manual selected");
+            var view = new $.ActivityView();
+            WatchUi.pushView(view, new $.ActivityDelegate(view), WatchUi.SLIDE_LEFT);
         } else if (id.equals("sync")) {
             System.println("sync selected");
         }
